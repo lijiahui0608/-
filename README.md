@@ -1,1 +1,2 @@
-# -
+# 手写数字识别
+The research of digital recognition technology can not only solve the current digital recognition problems, but also play a paving role in image recognition, machine learning and other aspects. In this paper, the recognition of handwritten digits is mainly realized by convolutional neural network (CNN) method. The network model is first designed, then trained with the MNIST dataset, and the recognition accuracy of the network model is tested, and then the handwritten digits are preprocessed and input into the model to verify the correctness.
